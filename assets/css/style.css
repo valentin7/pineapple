@@ -272,6 +272,36 @@ input {
 	position: relative;
 	padding-bottom: -350px;
 }
+
+
+/* For tablets */
+@media (max-width: 1024px) {
+	#phone-image {
+		margin-top: 0px !important;
+		left: 0px !important;
+		position: block;
+		padding-bottom: 0px;
+	}	
+	#appstore {
+		text-align: center;
+		padding-bottom: 10px;
+	}
+	.subscribe-input {
+		text-align: center;
+		margin: auto;
+		margin-bottom: 15px;
+	}
+	.input {
+		margin-left: 0px;
+		text-align: center;
+	}
+	.btn-green {
+		text-align: center;
+		margin: auto;
+	}
+	
+}
+
 /* Pricing Tables */
 .price-table {
 	border: 2px solid #5a5a5a;
@@ -349,6 +379,8 @@ ul {
 	font-weight: 700;
 	letter-spacing: 1px;
 }
+
+
 
 /* FOOTER */
 #f {
