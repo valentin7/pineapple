@@ -124,7 +124,7 @@ input {
 	padding: 15px 30px 16px;
 	border: 1px solid #b9b9af;
 	margin-bottom: 10px;
-	margin-left: -40px;
+	margin-left: -10px;
 	background-color: #fff;
 	opacity: 0.9;
 	-webkit-transition: background-color 0.2s;
@@ -133,8 +133,9 @@ input {
 
 .subscribe-input {
 	float: left;
-	width: 55%;
+	width: 45%;
 	text-align: left;
+	margin-left: 70px;
 	margin-right: 2px;
 }
 
@@ -176,6 +177,7 @@ input {
 	background: #1ECBBE;
 	color: white;
 	margin-right: 160px; 
+	margin-left: 5px;
 }
 
 /* HEADER SECTION */
