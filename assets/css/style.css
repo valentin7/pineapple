@@ -1,7 +1,4 @@
 /*
- * Author: Carlos Alvarez
- * URL: http://alvarez.is
- *
  * Project Name: Landing Sumo - Theme 20
  * URL: http://LandingSumo.com
  * Version: 1.0
@@ -206,6 +203,7 @@ input {
 #h .logo {
 	top: 10px;
 	left: 45px;
+	padding-left: 15px;
 	font-size: 18px;
 	font-weight: 900;
 	position:absolute; 
