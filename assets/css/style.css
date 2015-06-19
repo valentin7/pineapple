@@ -182,7 +182,7 @@ input {
 
 /* HEADER SECTION */
 #h {
-	background: url(../img/hotel-bg-dark.jpg) no-repeat fixed center top;
+	background: url(../img/hotel-bg-dark.jpg) no-repeat fixed;
 	padding-top: 180px;
 	text-align:center;
 	background-attachment: relative;
@@ -240,7 +240,7 @@ input {
 
 /* SEP */
 #sep {
-	background: url(../img/nizuc-hotel.jpg) no-repeat center top;
+	background: url(../img/nizuc-hotel.jpg) no-repeat;
 	padding-top: 90px;
 	text-align:center;
 	background-attachment: fixed;
