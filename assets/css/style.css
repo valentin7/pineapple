@@ -180,6 +180,10 @@ input {
 	margin-left: 5px;
 }
 
+#hotel-signup-button {
+	margin: auto;
+}
+
 /* HEADER SECTION */
 #h {
 	background: url(../img/hotel-bg-dark.jpg) no-repeat fixed;
