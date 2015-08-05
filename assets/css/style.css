@@ -206,14 +206,24 @@ input {
     background-size: cover;
 }
 
+/*
+.logo {
+	padding-left: -10%;
+}
+*/
+
+
 #h .logo {
 	top: 10px;
 	left: 45px;
-	padding-left: 100px;
+	padding-left: 10px;
 	font-size: 18px;
 	font-weight: 900;
+	width: 22%;
+	height: 22%;
 	position:absolute; 
 }
+
 
 #h .social {
 	top: 30px;
@@ -311,7 +321,10 @@ input {
 	}
 	
 	#h .logo {
-		padding-left: 0px;
+		padding-left: -80px;
+		margin-left: -60px;
+		width: 45%;
+		height: 45%;
 	}
 }
 
