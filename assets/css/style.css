@@ -148,13 +148,17 @@ input {
 		width: 100%;
 	}
 }
-
 #logo {
   margin-top: 70px;
   margin-bottom: -10px;
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+#first-screen {
+  max-width: 360px;
+/*   max-height: 557px; */
 }
 #email-input {
   margin-left: auto;
@@ -302,10 +306,16 @@ input {
 }
 
 #phone-image {
-	margin-top: -440px !important;
-	left: 200px !important;
+	margin-top: -445px !important;
+	left: 220px !important;
 	position: relative;
 	padding-bottom: -350px;
+	max-width: 320px;
+}
+
+#phone-flow {
+  width: 400%;
+  margin-bottom: 75px;
 }
 
 
