@@ -23,7 +23,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Lato', sans-serif;
+  font-family: 'Lato', sans-serif;
 	font-weight: 300;
 }
 
@@ -31,6 +31,9 @@ h1 {
   font-size: 1.3em;
 }
 
+#global-name {
+  margin-top: -29px;
+}
 
 p { 
 	padding: 0; 
@@ -178,15 +181,24 @@ input {
 	background: #1ECBBE;
 }
 
+
+#request-demo {
+  margin-left: 110px;
+}
 /*Buttons Configuration */
 .btn-conf {
 	border-radius: 50px;
-	margin-right: 15px;
-	font-size: 11px;
+	margin-top: 40px;
+	padding-left: 20px;
+  font-size: 12px;
+  margin-left: 25px;
+  right: 20px;
+	width: 300px;
+	transform: translate(20px,0);
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	padding: 18px 28px 17px 28px;
-	}
+}
 
 .btn-conf-2 {
 	border-radius: 50px;
@@ -327,6 +339,11 @@ input {
 		position: block;
 		padding-bottom: 0px;
 	}	
+	
+	#global-name {
+  	padding-top: 15px;
+    font-size: small;
+  }
 	#appstore {
 		text-align: center;
 		padding-bottom: 10px;
